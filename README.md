@@ -23,4 +23,5 @@
 ##### dubbo
 
 #### 好文参考！
-1. [java并发系列文章]("https://www.javazhiyin.com/topic/thread")
+
+[java并发系列文章](https://www.javazhiyin.com/topic/thread)
