@@ -8,8 +8,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <description>设计模式实战</description>
 
-    <artifactId>basic-java</artifactId>
+    <artifactId>design-pattern</artifactId>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -17,5 +18,6 @@
 <!--            <scope>test</scope>-->
         </dependency>
     </dependencies>
+
 
 </project>
